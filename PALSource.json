@@ -4,6 +4,7 @@
     "description": "3D 地球儀アプリ Handy Globe を AltStore PAL から配布するソースです。",
     "iconURL": "https://nc-research-dev.github.io/handy-globe-altstore/asset/appicon/icon-1024.png",
     "website": "https://nc-research-dev.github.io/handy-globe-altstore/",
+    "fediUsername": "handyglobe",
     "tintColor": "#00B8D4",
     "featuredApps": [
         "co.jp.mdvnc.handyglobe"
